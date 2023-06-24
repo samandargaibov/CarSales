@@ -1,0 +1,15 @@
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\bin\Debug\net6.0\CarSalesManagement.BLL.deps.json
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\bin\Debug\net6.0\CarSalesManagement.BLL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\bin\Debug\net6.0\CarSalesManagement.BLL.pdb
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\bin\Debug\net6.0\CarSalesManagementDAL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\bin\Debug\net6.0\CarSalesManagementDAL.pdb
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.AssemblyInfo.cs
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.csproj.CopyComplete
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\refint\CarSalesManagement.BLL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\CarSalesManagement.BLL.pdb
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagement.BLL\obj\Debug\net6.0\ref\CarSalesManagement.BLL.dll

@@ -1,0 +1,14 @@
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\bin\Debug\net6.0\CarSalesManagementDAL.deps.json
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\bin\Debug\net6.0\CarSalesManagementDAL.runtimeconfig.json
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\bin\Debug\net6.0\CarSalesManagementDAL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\bin\Debug\net6.0\CarSalesManagementDAL.pdb
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.csproj.AssemblyReference.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.AssemblyInfoInputs.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.AssemblyInfo.cs
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\refint\CarSalesManagementDAL.dll
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.pdb
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\CarSalesManagementDAL.genruntimeconfig.cache
+C:\Users\samandarrg\source\repos\CarSalesManagement\CarSalesManagementDAL\obj\Debug\net6.0\ref\CarSalesManagementDAL.dll
